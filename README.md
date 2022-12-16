@@ -28,3 +28,6 @@ The goal of this project is to create an app that can detect driver drowsiness i
 The purpose of the drowsiness detection system is to aid in the prevention of accidents passenger and commercial vehicles. The system will detect the early symptoms of drowsiness before the driver has fully lost all attentiveness and warn the driver that they are no longer capable of operating the vehicle safely.
 
 ![](drowsiness.png)
+
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> Contributer
+- Bhavya M Shah
